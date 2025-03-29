@@ -1,6 +1,5 @@
 # Previsão de Vendas de Sorvetes com AzureML
- Este repositório contém o código e os recursos necessários para desenvolver um modelo de regressão preditiva, utilizando Machine Learning, com o objetivo de prever as vendas de sorvetes da sorveteria "Gelato Mágico" com base na temperatura ambiente. O projeto foi desenvolvido como parte de um desafio prático para a DIO , visando demonstrar habilidades em construção e implantação de modelos de Machine Learning para problemas de previsão de demanda, no caso, a criação de um modelo de regressão.
-
+Este repositório contém os arquivos de código e outros recursos necessários para construir um modelo de regressão preditiva com Machine Learning. O objetivo é prever as vendas de sorvete da sorveteria "Gelato Mágico" com base na temperatura ambiente. Este projeto foi desenvolvido como parte de um desafio prático da DIO para demonstrar habilidades em criar e implementar modelos de Machine Learning para problemas de previsão de demanda, especificamente, um modelo de regressão.
 
 # Passo 1 - Obtenção da base de dados 
 A base de dados foi foi obtida na platforam kaggle, [Ice Cream Sales - temperatures](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales). A base conta com colunas Temperature e Ice cream profits, que representam a temperatura ambiente e o total de vendas do dia.
